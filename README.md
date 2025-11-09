@@ -1,6 +1,7 @@
-# Wallet integeration with simple one page UI
-
 A minimal **pink & black** themed single-page React app that demonstrates **Connect Wallet (MetaMask)** functionality. The app places a **Connect Wallet** button in the top-right, triggers MetaMask (`eth_requestAccounts`), displays the connected address and ETH balance, and listens for account / chain changes. It uses **ethers v6** and is built with Vite.
+
+<img width="1828" height="1041" alt="Screenshot from 2025-11-09 19-29-52" src="https://github.com/user-attachments/assets/7b8641f5-da44-4b9d-ad3b-14398097a90c" />
+<img width="1828" height="1041" alt="image" src="https://github.com/user-attachments/assets/55f89954-5923-42af-8934-1e1605c177f2" /># Wallet integeration with simple one page UI
 
 ---
 
